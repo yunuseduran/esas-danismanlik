@@ -9,7 +9,7 @@ export default function IletisimPage() {
     <div className="bg-white pt-28 pb-20">
       <div className="container mx-auto max-w-6xl px-4 sm:px-6 lg:px-8">
         <div className="text-center">
-          <span className="text-xs font-semibold uppercase tracking-[0.3rem] text-corporate/60">{translations.contact.pageTitle}</span>
+          <span className="text-xs font-semibold tracking-[0.3rem] text-corporate/60">{translations.contact.pageTitle}</span>
           <h1 className="mt-4 font-heading text-4xl font-semibold text-corporate md:text-5xl">
             {translations.contact.mainTitle}
           </h1>
@@ -52,7 +52,7 @@ export default function IletisimPage() {
             </h3>
             <form className="mt-8 space-y-6">
               <div>
-                <label htmlFor="name" className="block text-sm font-semibold uppercase tracking-[0.28rem] text-gray-500">
+                <label htmlFor="name" className="block text-sm font-semibold tracking-[0.28rem] text-gray-500">
                   {translations.contact.formName}
                 </label>
                 <input
@@ -63,7 +63,7 @@ export default function IletisimPage() {
                 />
               </div>
               <div>
-                <label htmlFor="email" className="block text-sm font-semibold uppercase tracking-[0.28rem] text-gray-500">
+                <label htmlFor="email" className="block text-sm font-semibold tracking-[0.28rem] text-gray-500">
                   {translations.contact.formEmail}
                 </label>
                 <input
@@ -74,7 +74,7 @@ export default function IletisimPage() {
                 />
               </div>
               <div>
-                <label htmlFor="message" className="block text-sm font-semibold uppercase tracking-[0.28rem] text-gray-500">
+                <label htmlFor="message" className="block text-sm font-semibold tracking-[0.28rem] text-gray-500">
                   {translations.contact.formMessage}
                 </label>
                 <textarea
@@ -87,7 +87,7 @@ export default function IletisimPage() {
               <div>
                 <button
                   type="submit"
-                  className="w-full rounded-full bg-corporate px-6 py-3 text-sm font-semibold uppercase tracking-[0.3rem] text-white transition hover:bg-corporate/90"
+                  className="w-full rounded-full bg-corporate px-6 py-3 text-sm font-semibold tracking-[0.3rem] text-white transition hover:bg-corporate/90"
                 >
                   {translations.contact.formSubmit}
                 </button>

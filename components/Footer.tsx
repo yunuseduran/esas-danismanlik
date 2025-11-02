@@ -21,18 +21,31 @@ const Footer = () => {
     { href: '/iletisim', label: translations.header.nav.contact },
   ];
 
+  const serviceLinks = [
+    { href: '/hizmetlerimiz/personel-ozluk-dosyasi-yonetimi', label: translations.services.footerServices.service1 },
+    { href: '/hizmetlerimiz/kvkk-uyumlu-calisan-evraklari', label: translations.services.footerServices.service2 },
+    { href: '/hizmetlerimiz/denetime-hazirlik-dosya-iyilestirme', label: translations.services.footerServices.service3 },
+    { href: '/hizmetlerimiz/ik-surec-standardizasyonu', label: translations.services.footerServices.service4 },
+    { href: '/hizmetlerimiz/ise-giris-ayrilma-surecleri', label: translations.services.footerServices.service5 },
+    { href: '/hizmetlerimiz/hizmet-calisan-sozlesmeleri', label: translations.services.footerServices.service6 },
+    { href: '/hizmetlerimiz/sirket-kurulumu-operasyonel-paket', label: translations.services.footerServices.service7 },
+    { href: '/hizmetlerimiz/marka-patent-degerlendirme', label: translations.services.footerServices.service8 },
+    { href: '/hizmetlerimiz/raporlama-takip-kontrol-sistemi', label: translations.services.footerServices.service9 },
+    { href: '/hizmetlerimiz/kurumsal-egitimler-ik-kvkk', label: translations.services.footerServices.service10 },
+  ];
+
   const usefulLinks = [
-    { href: 'https://kvkk.gov.tr', label: 'KVKK' },
-    { href: 'https://verbis.kvkk.gov.tr', label: 'VERBİS' },
-    { href: 'https://mevzuat.adalet.gov.tr', label: 'Mevzuat' },
-    { href: 'https://www.turkpatent.gov.tr', label: 'Türk Patent' },
-    { href: 'https://www.resmigazete.gov.tr', label: 'Resmî Gazete' },
+    { href: 'https://kvkk.gov.tr', label: translations.footer.usefulLinksLabels.kvkk },
+    { href: 'https://verbis.kvkk.gov.tr', label: translations.footer.usefulLinksLabels.verbis },
+    { href: 'https://mevzuat.adalet.gov.tr', label: translations.footer.usefulLinksLabels.mevzuat },
+    { href: 'https://www.turkpatent.gov.tr', label: translations.footer.usefulLinksLabels.turkpatent },
+    { href: 'https://www.resmigazete.gov.tr', label: translations.footer.usefulLinksLabels.resmigazete },
   ];
 
   return (
     <footer className="bg-corporate text-white">
       <div className="container mx-auto px-4 sm:px-6 lg:px-8 py-12 lg:py-20">
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 lg:gap-12">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-6 lg:gap-8">
           {/* Logo ve Açıklama */}
           <div className="sm:col-span-2 lg:col-span-1">
             <div className="flex items-center space-x-3 mb-4 lg:mb-6">
@@ -45,7 +58,7 @@ const Footer = () => {
                   className="object-contain"
                 />
               </div>
-              <span className="text-lg lg:text-xl font-bold">Esas Danışmanlık</span>
+              <span className="text-lg lg:text-xl font-bold">{translations.header.brandName}</span>
             </div>
             <p className="text-gray-300 text-sm lg:text-base leading-relaxed mb-4 lg:mb-6 max-w-sm">
               {translations.footer.description}
@@ -70,6 +83,23 @@ const Footer = () => {
             <h4 className="text-base lg:text-lg font-semibold mb-3 lg:mb-4 text-white">{translations.footer.menu}</h4>
             <ul className="space-y-2 lg:space-y-3">
               {navigationLinks.map((link) => (
+                <li key={link.label}>
+                  <Link 
+                    href={link.href} 
+                    className="text-gray-300 hover:text-white hover:translate-x-1 transition-all duration-300 text-sm lg:text-base block"
+                  >
+                    {link.label}
+                  </Link>
+                </li>
+              ))}
+            </ul>
+          </div>
+
+          {/* Hizmetlerimiz */}
+          <div className="space-y-4 lg:space-y-0">
+            <h4 className="text-base lg:text-lg font-semibold mb-3 lg:mb-4 text-white">{translations.header.nav.services}</h4>
+            <ul className="space-y-2 lg:space-y-3">
+              {serviceLinks.slice(0, 6).map((link) => (
                 <li key={link.label}>
                   <Link 
                     href={link.href} 
@@ -122,7 +152,7 @@ const Footer = () => {
         {/* Alt Çizgi */}
         <div className="mt-8 lg:mt-16 pt-6 lg:pt-8 border-t border-gray-700/50 text-center">
           <p className="text-gray-400 text-xs lg:text-sm">
-            &copy; {new Date().getFullYear()} Esas Danışmanlık. {translations.footer.copyright}
+            &copy; {new Date().getFullYear()} {translations.header.brandName}. {translations.footer.copyright}
           </p>
         </div>
       </div>

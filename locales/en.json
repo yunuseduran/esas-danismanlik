@@ -1,5 +1,6 @@
 {
   "header": {
+    "brandName": "Esas Consultant",
     "nav": {
       "home": "Home",
       "corporate": "Corporate",
@@ -12,7 +13,36 @@
     "menu": "Menu",
     "usefulLinks": "Useful Links",
     "location": "Location",
-    "copyright": "All rights reserved."
+    "copyright": "All rights reserved.",
+    "usefulLinksLabels": {
+      "kvkk": "KVKK",
+      "verbis": "VERBIS",
+      "mevzuat": "Legislation",
+      "turkpatent": "Turkish Patent",
+      "resmigazete": "Official Gazette"
+    }
+  },
+  "servicePages": {
+    "overview": "Overview",
+    "features": "Service Features",
+    "process": "Process Steps", 
+    "deliverables": "Deliverables",
+    "ctaTitle": "Ready to Start Your Project?",
+    "ctaButton": "Contact Us",
+    "otherServicesButton": "Other Services",
+    "startButton": "Get Started",
+    "ctaDescriptions": {
+      "service1": "Contact our expert team and receive professional support in personnel file management.",
+      "service2": "Contact our expert team and protect your organization from risks.",
+      "service3": "Contact our expert team and get professional support to succeed in the audit process.",
+      "service4": "Contact our expert team and increase your operational efficiency by standardizing your HR processes.",
+      "service5": "Contact our expert team and create professional transition processes protected from legal risks.",
+      "service6": "Contact our expert team and obtain comprehensive contract solutions protected from legal risks.",
+      "service7": "Contact our expert team and get support for a smooth transition from establishment to operation.",
+      "service8": "Contact our expert team and protect your brand and innovations with a strategic approach.",
+      "service9": "Contact our expert team and establish a reporting system that makes your compliance sustainable.",
+      "service10": "Contact our expert team and get practical training programs that increase personnel competencies."
+    }
   },
   "home": {
     "tag": "Esas Consultancy",
@@ -51,38 +81,350 @@
     "pageTitle": "Services",
     "mainTitle": "Our Areas of Expertise",
     "mainSubtitle": "We provide professional services in a wide range, from KVKK compliance to company establishment, from brand protection to contract consultancy.",
-    "card1": "KVK Consultancy",
-    "card2": "Personnel Records",
-    "card3": "Service Agreement",
-    "card4": "Company Setup",
-    "card5": "Trademark & Patent",
-    "section1Title": "KVK Consultancy",
-    "section1Text1": "As Esas Consultancy, we examine businesses' existing documentation and processes, and evaluate KVKK compliance through personnel files, forms, undertakings, and authorization documents of employees.",
-    "section1Text2": "We identify missing or risky texts, recommend necessary adjustments, and develop practical solutions that can be integrated into companies' daily operations.",
-    "section1Text3": "Our goal is to create a structure that meets legal requirements, properly manages employee data, and is ready for audits.",
-    "section2Title": "Personnel Records Consultancy",
-    "section2Text1": "Esas Consultancy evaluates personnel files in terms of regulatory compliance, completeness, and audit convenience.",
-    "section2Text2": "As a result of examining existing files, missing documents, procedural errors, or risky practices are identified, and a prioritized improvement plan is presented.",
-    "section2Text3": "Required and recommended documents for each position are determined; a systematic application guide is delivered with editable templates and filing scheme.",
-    "section3Title": "Service Agreement Consultancy",
-    "section3Text1": "Esas Consultancy analyzes the contract infrastructure related to supplier, customer, and service provider relationships, identifies risky provisions and practices, and creates clear, applicable contract texts.",
-    "section3Text2": "Ambiguities, missing penalty clauses, and non-compliant articles in existing contracts are renewed, reducing the business's legal exposure.",
-    "section3Text3": "The goal is to bring dispute risk to a manageable level and standardize contract processes.",
-    "section4Title": "Company Setup Consultancy",
-    "section4Text1": "Provides strategic guidance in new company setup processes. Guidance is provided in stages such as company type selection, title and business area determination, articles of association draft, and planning trade registry procedures.",
-    "section4Text2": "Risk assessment is made regarding tax, commercial, and administrative decisions to be taken during the establishment phase, and an implementation plan is prepared for mandatory notification, registration, and compliance steps after establishment.",
-    "section4Text3": "The goal is to ensure that the business is built on solid legal and operational foundations from the very beginning.",
-    "section5Title": "Trademark & Patent Consultancy",
-    "section5Text1": "As Esas Consultancy, we approach trademark and intellectual property protection needs strategically; we provide guidance on trademark search, application preparation, tracking registration processes, and necessary administrative procedures.",
-    "section5Text2": "Procedural support is provided for preliminary research, document preparation, and application process in patent and design processes.",
-    "section5Text3": "The goal is to strengthen corporate value by ensuring legal protection of the brand and innovations."
+    "service1": {
+      "title": "Personnel Record Management and Organization",
+      "description": "Complete and systematic organization of all personnel documents for employees within the framework of Labor Law and relevant legislation is ensured. Detailed inventory of existing files is prepared, mandatory and optional documents for each employee are defined. A prioritized action plan is prepared to complete deficiencies. All arrangements made during the service process are documented in a way that will provide evidence in case of legal disputes in the future.",
+      "buttonText": "Detailed Information"
+    },
+    "service2": {
+      "title": "KVKK Compliant Employee Document Preparation",
+      "description": "Information texts, explicit consent forms and personnel file contents related to employees are revised within the framework of KVKK. Which personal data are processed on which legal basis, retention periods and destruction procedures are clearly defined. The service aims to guarantee the compliance of physical document contents with legislation and aims for the documents to be complete in terms of content and declaration. The templates and guidelines provided are prepared to strengthen the institution's defense during audits.",
+      "buttonText": "Detailed Information"
+    },
+    "service3": {
+      "title": "Audit Preparation & File Improvement Package",
+      "description": "Personnel files and HR processes are scanned with internal audit methodology; identified non-compliances are classified according to risk level. Corrective activities that can be implemented in the short term are determined, and a 'compliance improvement report' is delivered with a step-by-step implementation schedule. The report includes a list of basic documents that may be requested during the audit, the priority of eliminating deficiencies, and a brief evaluation to be presented to senior management. The service aims to reduce the institution's risk of administrative sanctions.",
+      "buttonText": "Detailed Information"
+    },
+    "service4": {
+      "title": "HR Process Standardization and Personnel Regulation Preparation",
+      "description": "Easy-to-implement, legislation-compliant policies and regulations are prepared for recruitment, hiring documents, leave management, disciplinary processes, performance evaluation and termination procedures. Regulation drafts are customized according to the company's operational structure; they are finalized with applicability tests and revision cycles. Delivery includes regulation document, implementation guide and necessary forms package. The prepared arrangements are structured in a way that managers and HR teams can implement consistently.",
+      "buttonText": "Detailed Information"
+    },
+    "service5": {
+      "title": "Hiring and Termination Processes",
+      "description": "The necessary document set, work start procedures and document flow scheme are created during the hiring phase; hiring forms, contract examples and declaration controls are provided. In the process of terminating the employment contract, standardized applications are offered for termination procedures, exit documents and arrangement of waiver/minutes in accordance with procedural and formal requirements. The processes are supported by balanced texts that will minimize the employer's legal risk and protect the worker's rights. Delivery includes hiring and exit packages and implementation guide.",
+      "buttonText": "Detailed Information"
+    },
+    "service6": {
+      "title": "Service & Employee Contract Template Package",
+      "description": "Employee contract templates suitable for various working forms (indefinite term, fixed term, project-based, remote work, etc.) and supplier and service contract examples are prepared. Confidentiality, intellectual property, non-competition, wage-related provisions and termination conditions in contracts are arranged clearly and in accordance with legislation. Sector-specific risk clauses are added when necessary. The delivered package includes template sets and application notes suitable for the company's rapid use and revision.",
+      "buttonText": "Detailed Information"
+    },
+    "service7": {
+      "title": "Company Establishment – Operational Startup Package",
+      "description": "Following the completion of the establishment process, necessary human resources documentation and initial compliance controls are prepared for operational startup. Recruitment forms, personnel file templates, basic internal procedures and KVKK preliminary preparation documents required in the first phase are provided. Additionally, when legal monitoring of company establishment procedures is required, coordination with the relevant legal department is provided. Delivery includes the 'post-establishment operation handbook' and the first 3-month compliance checklist.",
+      "buttonText": "Detailed Information"
+    },
+    "service8": {
+      "title": "Trademark & Patent Preliminary Assessment and Application Preparation",
+      "description": "By conducting preliminary research on trademarks and inventions, a report on protection potential, conflict risks and strategic classification is presented. The preparation of application files, clarification of necessary explanations and claims, and the design of monitoring procedures for registration processes are provided. The delivered preliminary assessment report covers the application strategy and possible legal objection risks. The application process is carried out in coordination with the legal department when necessary.",
+      "buttonText": "Detailed Information"
+    },
+    "service9": {
+      "title": "Reporting, Monitoring and Periodic Control System",
+      "description": "A periodic audit plan and reporting mechanism is established for the sustainability of all regulatory and improvement work carried out. Monthly/quarterly report formats, monitoring indicators (e.g. document completion rate, number of open issues) and update recommendations are delivered to you. Reports present legal and operational evaluations together in a way that will form the basis for management decisions.",
+      "buttonText": "Detailed Information"
+    },
+    "service10": {
+      "title": "Corporate Training: HR Compliance, KVKK and File Management",
+      "description": "Legislation-compliant application trainings are designed for HR teams and managers; trainings are structured to include case studies, template applications and practical checklists. Participants' application competencies are measured as a result of the trainings and a short roadmap is given for follow-up. Delivery includes training materials, participant certificates and applicable action lists.",
+      "buttonText": "Detailed Information"
+    },
+    "footerServices": {
+      "service1": "Personnel Records",
+      "service2": "KVKK Compliant Documents",
+      "service3": "Audit Preparation",
+      "service4": "HR Standardization",
+      "service5": "Hiring/Termination",
+      "service6": "Contract Templates",
+      "service7": "Company Establishment",
+      "service8": "Trademark & Patent",
+      "service9": "Reporting System",
+      "service10": "Corporate Training"
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "question1": "How long does the KVKK compliance process take?",
+      "answer1": "The KVKK compliance process varies depending on the size of your company and your current data processing activities. On average, it is completed in 4-8 weeks. We can determine the exact duration after the initial assessment.",
+      "question2": "What documents should personnel records include?",
+      "answer2": "According to the Labor Law, personnel records must include; employment contract, identity card copy, diploma or certificate copy, health report, photograph, work start notification and disciplinary records if any. We will provide you with a detailed list.",
+      "question3": "What stages are followed in the company establishment process?",
+      "answer3": "The company establishment process includes; determining the company type, preparing the articles of association, depositing capital, applying to the trade registry, tax office registration and SGK procedures. We provide guidance at every stage.",
+      "question4": "How does the trademark application process work?",
+      "answer4": "The trademark application process consists of; preliminary research, application file preparation, application to the Turkish Patent and Trademark Office, examination process and registration stages. The process takes an average of 12-18 months.",
+      "question5": "How is your services priced?",
+      "answer5": "Our pricing is determined according to the scope, complexity and duration of the project. We prepare special offers for each of our customers. You can contact us for detailed information."
+    },
+    "serviceDetails": {
+      "service1": {
+        "title": "Personnel Record Management and Organization",
+        "subtitle": "Professional personnel file management compliant with labor law",
+        "overview": "Complete and systematic organization of all personnel documents for employees within the framework of Labor Law and relevant legislation is ensured. Detailed inventory of existing files is prepared, mandatory and optional documents for each employee are defined; a prioritized action plan is prepared to complete deficiencies.",
+        "features": [
+          "Detailed analysis and inventory of existing personnel files",
+          "Identification of missing documents in accordance with Labor Law requirements",
+          "Preparation of special file templates for each position",
+          "Prioritized action plan and implementation schedule",
+          "Documentation system with legal evidence value"
+        ],
+        "process": [
+          "Analysis of current situation and inventory preparation",
+          "Determination of legal requirements and identification of missing documents",
+          "Preparation of customized file templates",
+          "Creation of implementation plan and establishment of monitoring system",
+          "Establishment of continuous improvement and update processes"
+        ],
+        "deliverables": [
+          "Personnel files inventory report",
+          "Deficiency detection report and priority ranking",
+          "Position-based file templates",
+          "Implementation guide and checklists",
+          "Monitoring and update procedures"
+        ]
+      },
+      "service2": {
+        "title": "KVKK Compliant Employee Document Preparation",
+        "subtitle": "Full compliance with personal data protection legislation",
+        "overview": "Information texts, explicit consent forms and personnel file contents related to employees are revised within the framework of KVKK and made compatible with the institution's data processing activities. Which personal data are processed on which legal basis, retention periods and destruction procedures are clearly defined.",
+        "features": [
+          "Preparation of KVKK compliant information texts",
+          "Updating and standardization of explicit consent forms",
+          "Preparation of data processing inventory",
+          "Determination of retention periods and design of destruction procedures",
+          "Documentation that will provide defense power during audit process"
+        ],
+        "process": [
+          "Analysis of existing data processing activities",
+          "Document revision in accordance with KVKK requirements",
+          "Preparation of information texts and consent forms",
+          "Determination of data inventory and storage policies",
+          "Personnel training and initiation of implementation process"
+        ],
+        "deliverables": [
+          "KVKK compliant information texts",
+          "Updated explicit consent forms",
+          "Data processing inventory and storage policies",
+          "Destruction procedures and monitoring system",
+          "Compliance checklists and training materials"
+        ]
+      },
+      "service3": {
+        "title": "Audit Preparation & File Improvement Package",
+        "subtitle": "Comprehensive preparation minimizing administrative sanction risks",
+        "overview": "Personnel files and HR processes are scanned with internal audit methodology; identified non-compliances are classified according to risk level. Corrective activities that can be implemented in the short term are determined, and a 'compliance improvement report' is delivered with a step-by-step implementation schedule.",
+        "features": [
+          "Comprehensive internal audit and risk assessment",
+          "Classification of non-compliances according to risk level",
+          "Identification of issues requiring urgent intervention",
+          "Preparation of documents that may be requested during audit",
+          "Summary evaluation report to be presented to senior management"
+        ],
+        "process": [
+          "Comprehensive analysis of current situation and risk mapping",
+          "Identification and prioritization of critical non-compliances",
+          "Planning and scheduling of corrective activities",
+          "Completion of audit preparation documents",
+          "Establishment of continuous monitoring and improvement system"
+        ],
+        "deliverables": [
+          "Comprehensive audit report and risk analysis",
+          "Prioritized improvement plan",
+          "Audit preparation document set",
+          "Senior management summary report",
+          "Continuous monitoring and control system"
+        ]
+      },
+      "service4": {
+        "title": "HR Process Standardization and Personnel Regulation Preparation",
+        "subtitle": "Standard HR processes that increase operational efficiency",
+        "overview": "Easy-to-implement, legislation-compliant policies and regulations are prepared for recruitment, hiring documents, leave management, disciplinary processes, performance evaluation and termination procedures. Regulation drafts are customized according to the company's operational structure; they are finalized with applicability tests and revision cycles.",
+        "features": [
+          "Standardization of all HR processes from recruitment to termination",
+          "Custom regulation design specific to the company's operational structure",
+          "Easy-to-implement and understandable procedure texts",
+          "Practical implementation guides for HR teams",
+          "Continuous improvement and update mechanisms"
+        ],
+        "process": [
+          "Analysis of existing HR processes and comparative evaluation",
+          "Design of regulations and policies suitable for the company's structure",
+          "Preparation of draft texts and operational testing",
+          "Receiving stakeholder feedback and revision processes",
+          "Approval of final regulations and providing implementation training"
+        ],
+        "deliverables": [
+          "Comprehensive personnel regulation document",
+          "HR processes implementation guide",
+          "Standard form templates and checklists",
+          "Training materials and presentations",
+          "Continuous improvement and update procedures"
+        ]
+      },
+      "service5": {
+        "title": "Hiring and Termination Processes",
+        "subtitle": "Professional transition processes that protect from legal risks",
+        "overview": "The necessary document set, work start procedures and document flow scheme are created during the hiring phase; hiring forms, contract examples and declaration controls are provided. In the process of terminating the employment contract, standardized applications are offered for termination procedures, exit documents and arrangement of waiver/minutes in accordance with procedural and formal requirements.",
+        "features": [
+          "Complete document control system in the hiring process",
+          "Timely and accurate legal notifications",
+          "Compliance with procedural and formal requirements in termination processes",
+          "Balanced procedures for legal risk minimization",
+          "Step-by-step implementation guides for HR teams"
+        ],
+        "process": [
+          "Analysis and standardization of hiring processes",
+          "Determination and templating of required document sets",
+          "Design of termination procedures within legal framework",
+          "Creation and testing of document flow schemes",
+          "Initiation of personnel training and continuous improvement processes"
+        ],
+        "deliverables": [
+          "Hiring document packages and checklists",
+          "Termination procedures and exit documents",
+          "Standard contract templates and declaration forms",
+          "Document flow schemes and process maps",
+          "Implementation guide and training materials"
+        ]
+      },
+      "service6": {
+        "title": "Service & Employee Contract Template Package",
+        "subtitle": "Comprehensive contract solutions suitable for various working forms",
+        "overview": "Employee contract templates suitable for various working forms (indefinite term, fixed term, project-based, remote work, etc.) and supplier and service contract examples are prepared. Confidentiality, intellectual property, non-competition, wage-related provisions and termination conditions in contracts are arranged clearly and in accordance with legislation.",
+        "features": [
+          "Customized contract templates for different work types",
+          "Special provisions for confidentiality and intellectual property protection",
+          "Clear definition of non-competition and wage arrangements",
+          "Integration of sector-specific risk clauses",
+          "Revisable template systems for quick use"
+        ],
+        "process": [
+          "Analysis of company's working forms and needs assessment",
+          "Preparation of legislation-compliant contract templates",
+          "Identification of sectoral risk factors and addition of clauses",
+          "Completion of legal review and approval processes",
+          "Preparation of usage guides and training materials"
+        ],
+        "deliverables": [
+          "Contract template package for various work types",
+          "Supplier and service contract examples",
+          "Contract usage guide and application notes",
+          "Standard confidentiality and non-competition clauses",
+          "Revision and update procedures"
+        ]
+      },
+      "service7": {
+        "title": "Company Establishment – Operational Startup Package",
+        "subtitle": "Comprehensive support for smooth transition from establishment to operation",
+        "overview": "Following the completion of the establishment process, necessary human resources documentation and initial compliance controls are prepared for operational startup. Recruitment forms, personnel file templates, basic internal procedures and KVKK preliminary preparation documents required in the first phase are provided.",
+        "features": [
+          "Basic HR documentation system for new companies",
+          "KVKK compliant startup document packages",
+          "Ready form templates for initial personnel recruitment",
+          "Design and documentation of basic internal procedures",
+          "First 3-month operational compliance monitoring system"
+        ],
+        "process": [
+          "Analysis of company's field of activity and personnel needs",
+          "Preparation of basic HR documentation",
+          "Creation of KVKK preliminary preparation documents",
+          "Design of templates and procedures for initial recruitment processes",
+          "Establishment of operational monitoring system and providing training"
+        ],
+        "deliverables": [
+          "Post-establishment operation handbook",
+          "First 3-month compliance control checklist",
+          "Basic personnel file templates",
+          "Recruitment forms and procedure documents",
+          "KVKK preliminary preparation document package"
+        ]
+      },
+      "service8": {
+        "title": "Trademark & Patent Preliminary Assessment and Application Preparation",
+        "subtitle": "Strategic approach protecting your intellectual property rights",
+        "overview": "By conducting preliminary research on trademarks and inventions, a report on protection potential, conflict risks and strategic classification is presented. The preparation of application files, clarification of necessary explanations and claims, and the design of monitoring procedures for registration processes are provided.",
+        "features": [
+          "Comprehensive trademark and patent research services",
+          "Conflict risk and protection potential analysis",
+          "Strategic classification and application strategy development",
+          "Professional preparation of application files",
+          "Registration process monitoring and management system"
+        ],
+        "process": [
+          "Preliminary research and analysis on trademark/patent subject",
+          "Identification of conflict risks and strategic evaluation",
+          "Preparation of application files and clarification of claim texts",
+          "Management of application processes to Turkish Patent and Trademark Office",
+          "Monitoring of registration process and coordination of necessary interventions"
+        ],
+        "deliverables": [
+          "Trademark/patent preliminary assessment report",
+          "Conflict analysis and risk assessment",
+          "Application strategy and action plan",
+          "Ready application files and supporting documents",
+          "Registration process monitoring system and procedures"
+        ]
+      },
+      "service9": {
+        "title": "Reporting, Monitoring and Periodic Control System",
+        "subtitle": "Systematic monitoring mechanism for sustainable compliance",
+        "overview": "A periodic audit plan and reporting mechanism is established for the sustainability of all regulatory and improvement work carried out. Monthly/quarterly report formats, monitoring indicators (e.g. document completion rate, number of open issues) and update recommendations are delivered to you.",
+        "features": [
+          "Automatic reporting and monitoring systems",
+          "Monthly/quarterly performance indicator tracking",
+          "Risk-focused periodic audit planning",
+          "Management reports and decision support systems",
+          "Development of continuous improvement recommendations"
+        ],
+        "process": [
+          "Determination of monitoring indicators and design of reporting system",
+          "Creation and scheduling of periodic audit plan",
+          "Automation of data collection processes",
+          "Preparation of report formats and creation of presentation templates",
+          "Establishment and operation of continuous improvement cycle"
+        ],
+        "deliverables": [
+          "Reporting system and indicator dashboard",
+          "Monthly/quarterly periodic audit reports",
+          "Management summary reports and trend analyses",
+          "Continuous improvement recommendations and action plans",
+          "Performance monitoring systems and warning mechanisms"
+        ]
+      },
+      "service10": {
+        "title": "Corporate Training: HR Compliance, KVKK and File Management",
+        "subtitle": "Applied training programs that increase personnel competencies",
+        "overview": "Legislation-compliant application trainings are designed for HR teams and managers; trainings are structured to include case studies, template applications and practical checklists. Participants' application competencies are measured as a result of the trainings and a short roadmap is given for follow-up.",
+        "features": [
+          "Interactive training content with sector-specific case studies",
+          "Practical applications and template usage training",
+          "Participant competency measurements and certification programs",
+          "Post-training follow-up and mentorship support",
+          "Current legislation changes monitoring and sharing system"
+        ],
+        "process": [
+          "Needs analysis and customization of training content to company's situation",
+          "Preparation of interactive training materials",
+          "Conducting training sessions covering theoretical knowledge and practical applications",
+          "Measuring participant competencies and receiving feedback",
+          "Planning follow-up training and continuous development programs"
+        ],
+        "deliverables": [
+          "Customized training materials and presentations",
+          "Participant certificates and competency documents",
+          "Post-training implementation guide and checklists",
+          "Follow-up training plan and mentorship program",
+          "Current legislation monitoring system and information platform"
+        ]
+      }
+    }
   },
   "contact": {
     "pageTitle": "Contact",
     "mainTitle": "Let's Create Solutions Together",
     "mainSubtitle": "You can use the channels below to contact us or fill out the form. We quickly evaluate all your requests and produce customized solutions for you.",
     "addressTitle": "Address",
-    "addressText": "Near Mall of İstanbul<br />Başakşehir, İstanbul",
+    "addressText": "Near Mall of Istanbul<br />Basaksehir, Istanbul",
     "emailTitle": "Email",
     "phoneTitle": "Phone",
     "formTitle": "Write to Us",

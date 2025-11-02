@@ -50,18 +50,18 @@ const Header = () => {
       <div className="container mx-auto flex h-20 items-center justify-between px-4 sm:px-6 lg:px-8">
         {/* Logo and Brand Name */}
         <Link href="/" className="flex items-center space-x-4">
-          <div className="relative h-16 w-16 rounded-lg overflow-hidden">
+          <div className="relative h-16 w-16 rounded-lg overflow-hidden bg-white/95 backdrop-blur-sm shadow-lg ring-2 ring-white/20">
             <Image
               src="/esas-logo.png"
               alt="Esas Danışmanlık Logo"
               fill
               sizes="64px"
-              className="object-contain transition duration-300 hover:scale-105"
+              className="object-contain transition duration-300 hover:scale-105 p-1"
               priority
             />
           </div>
-          <span className={`text-xl font-bold uppercase tracking-wider ${brandColor} transition-colors duration-300`}>
-            Esas Danışmanlık
+          <span className={`text-xl font-bold tracking-wide ${brandColor} transition-colors duration-300`}>
+            {translations.header.brandName}
           </span>
         </Link>
 
@@ -73,7 +73,7 @@ const Header = () => {
               <Link
                 key={link.href}
                 href={link.href}
-                className={`relative text-sm font-medium uppercase tracking-[0.18rem] transition-colors duration-300 ${
+                      className={`relative text-sm font-medium tracking-[0.18rem] transition-colors duration-300 ${
                   shouldUseSolidBackground ? 'hover:text-corporate' : 'hover:text-white/80'
                 } ${linkBaseColor}`}
               >
@@ -88,7 +88,7 @@ const Header = () => {
 
         {/* Language Switcher & Mobile Menu */}
         <div className="flex items-center space-x-4">
-          <div className="hidden items-center text-xs font-semibold uppercase tracking-[0.2rem] md:flex">
+                <div className="hidden items-center text-xs font-semibold tracking-[0.2rem] md:flex">
             <button 
               onClick={() => setLanguage('tr')} 
               className={`${language === 'tr' ? brandColor : linkBaseColor} transition-colors duration-300`}
@@ -123,12 +123,12 @@ const Header = () => {
                 key={link.href}
                 href={link.href}
                 onClick={() => setIsMenuOpen(false)}
-                className="block rounded-full px-4 py-3 text-sm font-semibold uppercase tracking-[0.18rem] text-gray-700 transition hover:bg-gray-100"
+                      className="block rounded-full px-4 py-3 text-sm font-semibold tracking-[0.18rem] text-gray-700 transition hover:bg-gray-100"
               >
                 {link.label}
               </Link>
             ))}
-            <div className="pt-3 text-xs font-semibold uppercase tracking-[0.2rem] text-gray-500">
+            <div className="pt-3 text-xs font-semibold tracking-[0.2rem] text-gray-500">
               <button 
                 onClick={() => setLanguage('tr')} 
                 className={language === 'tr' ? 'text-corporate' : 'hover:text-corporate'}

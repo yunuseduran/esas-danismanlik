@@ -41,7 +41,7 @@ export default function KurumsalPage() {
       {/* Header Section */}
       <div className="container mx-auto max-w-6xl px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
-          <span className="text-xs font-semibold uppercase tracking-[0.3rem] text-corporate/60">{translations.corporate.pageTitle}</span>
+          <span className="text-xs font-semibold tracking-[0.3rem] text-corporate/60">{translations.corporate.pageTitle}</span>
           <h1 className="mt-4 font-heading text-4xl font-semibold text-corporate md:text-5xl">
             {translations.corporate.mainTitle}
           </h1>
