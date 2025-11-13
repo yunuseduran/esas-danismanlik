@@ -42,12 +42,12 @@ export default function RaporlamaTakipKontrolSistemiPage() {
                 </svg>
               </Link>
             </div>
-            <div className="relative h-[400px] w-full overflow-hidden rounded-3xl shadow-xl">
+            <div className="relative w-full max-w-[512px] aspect-[4/3] sm:aspect-[512/400] mx-auto overflow-hidden rounded-3xl shadow-xl">
               <Image
-                src="/about-office.jpg"
+                src="/raporlama.jpg"
                 alt={service.title}
                 fill
-                sizes="(max-width: 1024px) 100vw, 50vw"
+                sizes="(max-width: 640px) 100vw, 512px"
                 className="object-cover"
               />
             </div>

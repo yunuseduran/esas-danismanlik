@@ -136,7 +136,7 @@ const Footer = () => {
             <h4 className="text-base lg:text-lg font-semibold mb-3 lg:mb-4 text-white">{translations.footer.location}</h4>
             <div className="h-40 lg:h-48 overflow-hidden rounded-lg shadow-lg ring-1 ring-white/10">
               <iframe 
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30959.931044918685!2d28.831863609763072!3d41.06948531808034!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14caa59939b08cf5%3A0x51dbb16a702cb15a!2sMall%20of%20%C4%B0stanbul!5e0!3m2!1str!2str!4v1761810105911!5m2!1str!2str" 
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d751.9779986625487!2d28.80935146962118!3d41.070916298208886!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14caa58307f99a65%3A0xde552d1482bafb9c!2sDeposite%20Ofis!5e0!3m2!1str!2str!4v1763036150922!5m2!1str!2str" 
                 width="100%" 
                 height="100%" 
                 style={{border:0}} 

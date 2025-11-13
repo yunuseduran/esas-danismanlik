@@ -83,12 +83,12 @@ export default function KurumsalPage() {
                 <p>{translations.corporate.section1Text3}</p>
               </div>
             </div>
-            <div className="relative h-[400px] w-full overflow-hidden rounded-3xl shadow-xl">
+            <div className="relative w-full max-w-[512px] aspect-[4/3] sm:aspect-[512/400] mx-auto overflow-hidden rounded-3xl shadow-xl">
               <Image
                 src="/about-office.jpg"
                 alt="KVKK Danışmanlık Hizmetleri"
                 fill
-                sizes="(max-width: 1024px) 100vw, 50vw"
+                sizes="(max-width: 640px) 100vw, 512px"
                 className="object-cover"
               />
             </div>
@@ -100,12 +100,12 @@ export default function KurumsalPage() {
       <section id="vizyon-misyon" className="py-20 bg-white">
         <div className="container mx-auto max-w-6xl px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
-            <div className="relative h-[400px] w-full overflow-hidden rounded-3xl shadow-xl">
+            <div className="relative w-full max-w-[512px] aspect-[4/3] sm:aspect-[512/400] mx-auto overflow-hidden rounded-3xl shadow-xl">
               <Image
-                src="/hero-bg.jpg"
+                src="/vizyon-misyon.jpg"
                 alt="Vizyon ve Misyon"
                 fill
-                sizes="(max-width: 1024px) 100vw, 50vw"
+                sizes="(max-width: 640px) 100vw, 512px"
                 className="object-cover"
               />
             </div>
@@ -142,12 +142,12 @@ export default function KurumsalPage() {
                 <p>{translations.corporate.section3Text3}</p>
               </div>
             </div>
-            <div className="relative h-[400px] w-full overflow-hidden rounded-3xl shadow-xl">
+            <div className="relative w-full max-w-[512px] aspect-[4/3] sm:aspect-[512/400] mx-auto overflow-hidden rounded-3xl shadow-xl">
               <Image
-                src="/banner.jpg"
+                src="/neden-esas.jpg"
                 alt="Neden Esas Danışmanlık"
                 fill
-                sizes="(max-width: 1024px) 100vw, 50vw"
+                sizes="(max-width: 640px) 100vw, 512px"
                 className="object-cover"
               />
             </div>
@@ -159,12 +159,12 @@ export default function KurumsalPage() {
       <section id="gizlilik-politikasi" className="py-20 bg-white">
         <div className="container mx-auto max-w-6xl px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
-            <div className="relative h-[400px] w-full overflow-hidden rounded-3xl shadow-xl">
+            <div className="relative w-full max-w-[512px] aspect-[4/3] sm:aspect-[512/400] mx-auto overflow-hidden rounded-3xl shadow-xl">
               <Image
-                src="/mobile-banner.jpg"
+                src="/gizlilik-politikasi.jpg"
                 alt="Gizlilik Politikası"
                 fill
-                sizes="(max-width: 1024px) 100vw, 50vw"
+                sizes="(max-width: 640px) 100vw, 512px"
                 className="object-cover"
               />
             </div>
