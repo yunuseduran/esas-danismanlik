@@ -1,36 +1,101 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Esas Danışmanlık
 
-## Getting Started
+Modern ve minimalist avukatlık ve danışmanlık hizmetleri web sitesi. Next.js, TypeScript ve Tailwind CSS ile geliştirilmiştir.
 
-First, run the development server:
+## Özellikler
+
+- 🌐 Çok dilli destek (TR/EN)
+- 📱 Tam responsive tasarım
+- 🎨 Modern ve minimalist UI/UX
+- 🔍 SEO optimizasyonu (Open Graph, Twitter Cards, Sitemap)
+- ⚡ Next.js App Router ile hızlı performans
+- 🎯 KVKK uyumlu form yapısı
+
+## Gereksinimler
+
+- Node.js 18+ 
+- npm, yarn, pnpm veya bun
+
+## Kurulum
 
 ```bash
+# Bağımlılıkları yükleyin
+npm install
+
+# Geliştirme sunucusunu başlatın
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Tarayıcınızda [http://localhost:3000](http://localhost:3000) adresini açın.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Favicon Dosyaları
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+SEO ve favicon yapılandırması için aşağıdaki favicon dosyalarını `public` klasörüne eklemeniz gerekmektedir:
 
-## Learn More
+- `favicon-16x16.png` (16x16 piksel)
+- `favicon-32x32.png` (32x32 piksel)
+- `apple-touch-icon.png` (180x180 piksel)
 
-To learn more about Next.js, take a look at the following resources:
+Bu dosyaları `public/esas-logo.png` dosyasından oluşturabilirsiniz. Online araçlar kullanarak (ör. [favicon.io](https://favicon.io), [realfavicongenerator.net](https://realfavicongenerator.net)) logo dosyanızdan favicon setini oluşturabilirsiniz.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## SEO Yapılandırması
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Site, kapsamlı SEO metadata yapısına sahiptir:
 
-## Deploy on Vercel
+- Open Graph etiketleri
+- Twitter Card etiketleri
+- Canonical URL'ler
+- Hreflang etiketleri (TR/EN)
+- Sitemap.xml (otomatik oluşturulur)
+- Robots.txt
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+SEO ayarlarını `lib/metadata.ts` dosyasından düzenleyebilirsiniz.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Proje Yapısı
+
+```
+esas/
+├── app/                    # Next.js App Router sayfaları
+│   ├── page.tsx           # Ana sayfa
+│   ├── kurumsal/          # Kurumsal sayfa
+│   ├── hizmetlerimiz/     # Hizmetler sayfaları
+│   ├── iletisim/          # İletişim sayfası
+│   ├── layout.tsx          # Root layout
+│   ├── sitemap.ts         # Sitemap generator
+│   └── manifest.ts        # Web manifest
+├── components/            # React bileşenleri
+│   ├── Header.tsx
+│   ├── Footer.tsx
+│   └── LanguageWrapper.tsx
+├── contexts/              # React Context API
+│   └── LanguageContext.tsx
+├── locales/               # Çeviri dosyaları
+│   ├── tr.json
+│   └── en.json
+├── lib/                   # Yardımcı fonksiyonlar
+│   └── metadata.ts        # SEO metadata helper
+└── public/                # Statik dosyalar
+    ├── robots.txt
+    └── manifest.json
+```
+
+## Build ve Deploy
+
+```bash
+# Production build
+npm run build
+
+# Production sunucusunu başlat
+npm start
+```
+
+## Teknolojiler
+
+- **Next.js 16** - React framework
+- **TypeScript** - Type safety
+- **Tailwind CSS** - Utility-first CSS
+- **React Context API** - Global state management
+
+## Lisans
+
+Tüm hakları saklıdır. © Esas Danışmanlık

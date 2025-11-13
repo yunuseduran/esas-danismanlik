@@ -4,6 +4,7 @@ import "./globals.css";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import LanguageWrapper from "@/components/LanguageWrapper";
+import { defaultMetadata } from "@/lib/metadata";
 
 const inter = Inter({ 
   subsets: ["latin"],
@@ -16,10 +17,7 @@ const poppins = Poppins({
   variable: '--font-poppins',
 });
 
-export const metadata: Metadata = {
-  title: "Esas Danışmanlık",
-  description: "Modern ve minimalist avukatlık ve danışmanlık hizmetleri",
-};
+export const metadata: Metadata = defaultMetadata;
 
 export default function RootLayout({
   children,
