@@ -62,9 +62,13 @@ export default function MarkaPatentDegerlendirmePage() {
             <h2 className="font-heading text-3xl font-semibold text-corporate mb-6">
               {translations.servicePages.overview}
             </h2>
-            <p className="text-left text-lg text-gray-700 leading-relaxed">
-              {service.overview}
-            </p>
+            <div className="text-left space-y-4">
+              {service.overview.split('\n\n').map((paragraph: string, index: number) => (
+                <p key={index} className="text-lg text-gray-700 leading-relaxed">
+                  {paragraph}
+                </p>
+              ))}
+            </div>
           </div>
         </div>
       </section>
