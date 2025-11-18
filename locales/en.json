@@ -9,7 +9,7 @@
     }
   },
   "footer": {
-    "description": "With our innovative perspective and expert team, we develop customized strategies for your legal needs, offering reliable consultancy solutions that will guide you to your goals.",
+    "description": "With our innovative perspective and expert team, we develop customized strategies for your company's needs, offering reliable consultancy solutions that will guide you to your goals.",
     "menu": "Menu",
     "usefulLinks": "Useful Links",
     "location": "Location",
@@ -47,7 +47,7 @@
   "home": {
     "tag": "Esas Consultancy",
     "title": "Your Trusted Solution Partner <br /> Consultancy",
-    "subtitle": "With our innovative perspective and expert team, we develop customized strategies for your legal needs, offering reliable consultancy solutions that will guide you to your goals.",
+    "subtitle": "With our innovative perspective and expert team, we develop customized strategies for your company's needs, offering reliable consultancy solutions that will guide you to your goals.",
     "button1": "Discover Our Services",
     "button2": "Contact Us"
   },
@@ -60,9 +60,7 @@
     "card3": "Why Esas",
     "card4": "Privacy Policy",
     "section1Title": "Esas Consultancy",
-    "section1Text1": "We provide comprehensive consultancy services to ensure businesses fully comply with Law No. 6698 on the Protection of Personal Data (KVKK) and the principle of 'privacy of private life' as set forth in Article 20 of the Constitution.",
-    "section1Text2": "Our goal is to secure companies' personal data processing procedures on a legal basis, eliminate risks, and establish a sustainable compliance structure. Data security is not only a legal requirement, but also a strategic element that directly affects businesses' reputation, reliability, and customer loyalty.",
-    "section1Text3": "We meticulously manage your VERBIS registration and compliance process with our expert team, supporting you at every step.",
+    "section1Text1": "As Esas Consultancy, we transform our business partners' operational burdens and legal risks into manageable processes with a proactive approach. From the establishment phase to full institutionalization, we build a complete, auditable, and secure infrastructure so companies can continue their growth journey with confidence.",
     "section2Title": "Vision & Mission",
     "section2VisionTitle": "Our Vision",
     "section2VisionText": "To be a brand recognized for its reliability in the consultancy field, creating difference at both national and international levels.",
@@ -80,68 +78,68 @@
   "services": {
     "pageTitle": "Services",
     "mainTitle": "Our Areas of Expertise",
-    "mainSubtitle": "We provide professional services in a wide range, from KVKK compliance to company establishment, from brand protection to contract consultancy.",
+    "mainSubtitle": "We meet all your company's needs from A to Z, ensuring that potential problems are resolved before they arise. We provide professional services in a wide range, from KVKK compliance to company establishment, from brand protection to contract consultancy.",
     "service1": {
-      "title": "Personnel Record Management and Organization",
-      "description": "Systematic and audit-ready organization of your personnel files. Analysis of existing files, identification of deficiencies, and establishment of professional archive structure with customized templates.",
+      "title": "Personnel File Setup and Management",
+      "description": "We ensure that your personnel files are organized flawlessly and understandably from the very beginning. For existing files, we identify your deficiencies by conducting a comprehensive review and analysis, and ensure they are organized in accordance with the legislation.",
       "buttonText": "Detailed Information"
     },
     "service2": {
-      "title": "KVKK Compliant Employee Document Preparation",
-      "description": "Document organization ensuring full compliance with personal data protection legislation. Preparation of information texts, consent forms and data inventory for reliable data management.",
+      "title": "KVKK Compliance Package",
+      "description": "We inventory all kinds of information and documents entering and stored in your company's records, ensuring that all data is collected and protected in accordance with KVKK legislation. In this context; we provide all KVKK documents, including illumination texts, consent forms, and data inventory, for your complete use.",
       "buttonText": "Detailed Information"
     },
     "service3": {
       "title": "Audit Preparation & File Improvement Package",
-      "description": "Comprehensive internal audit with risk mapping and prioritization of non-compliances. Corrective action plan and step-by-step implementable improvement schedule presentation.",
+      "description": "With a comprehensive internal audit process, we identify your company's risk map and detect non-conformities. In light of the data obtained, we perform a company analysis and prepare a prioritized action plan, making your company ready for all audits in a transparent and auditable manner.",
       "buttonText": "Detailed Information"
     },
     "service4": {
-      "title": "HR Process Standardization and Personnel Regulation Preparation",
-      "description": "Optimization of HR processes and preparation of company-specific personnel regulations. Standardization of all processes from recruitment to termination and creation of a living guide.",
+      "title": "HR Process Management Package and Special Personnel Regulation Preparation",
+      "description": "We optimize your HR processes in accordance with your company's operating procedures and system, and prepare a special Personnel Regulation for you.",
       "buttonText": "Detailed Information"
     },
     "service5": {
-      "title": "Hiring and Termination Processes",
-      "description": "Bringing onboarding and termination processes to professional structure. Design of transition processes and procedures that minimize legal risks and protect both parties' rights.",
+      "title": "Onboarding and Offboarding Process Management",
+      "description": "We professionalize onboarding and offboarding processes. In this way, we minimize dispute risks and ensure the protection of both parties' interests with fair process management.",
       "buttonText": "Detailed Information"
     },
     "service6": {
       "title": "Service & Employee Contract Template Package",
-      "description": "Professional contract template package suitable for different working models. Secure contract infrastructure including confidentiality, intellectual property and non-competition clauses.",
+      "description": "We prepare contracts suitable for your company's different working models. Instead of standard and boilerplate equivalents, we prepare contracts that fully meet your needs, ensuring the highest level of compliance and predictability.",
       "buttonText": "Detailed Information"
     },
     "service7": {
       "title": "Company Establishment – Operational Startup Package",
-      "description": "Operational startup HR infrastructure setup for newly established companies. Basic document package and operation handbook from initial recruitment forms to KVKK preparation.",
+      "description": "The first condition for your company's smooth and sustainable growth is to start with the right company selection. As Esas Consultancy, we meticulously manage all processes, including the determination of company type and NACE codes, and the preparation of the company's articles of association, ensuring that your company is established in a way that is suitable for the dynamics of the business world.",
       "buttonText": "Detailed Information"
     },
     "service8": {
-      "title": "Trademark & Patent Preliminary Assessment and Application Preparation",
-      "description": "Strategic approach for protecting your intellectual property assets. Comprehensive preliminary research, registration application and process management to secure your valuable assets.",
+      "title": "Trademark & Patent Application, Registration, and Protection Process Management",
+      "description": "We handle all necessary tasks and procedures on your behalf to register and protect your intellectual property rights. By safeguarding all your efforts and assets on your behalf, we enable you to invest more confidently in the future.",
       "buttonText": "Detailed Information"
     },
     "service9": {
       "title": "Reporting, Monitoring and Periodic Control System",
-      "description": "Systematic monitoring and reporting infrastructure for permanence of improvements. Performance indicators, periodic audit plans and continuous improvement cycle setup.",
+      "description": "We ensure that all the services we provide work seamlessly with your company's departments and employees, establishing a sustainable system. In this context, we conduct periodic audits and implement a continuous improvement cycle based on the results of our systematic monitoring and reporting.",
       "buttonText": "Detailed Information"
     },
     "service10": {
       "title": "Corporate Training: HR Compliance, KVKK and File Management",
-      "description": "Applied training programs for HR teams. Transfer of knowledge to practice through interactive workshop studies, case studies and practical checklists.",
+      "description": "We provide in-house training to ensure your employees can use the systems in a timely and consistent manner, and we ensure our services operate flawlessly.",
       "buttonText": "Detailed Information"
     },
     "footerServices": {
-      "service1": "Personnel Records",
-      "service2": "KVKK Compliant Documents",
+      "service1": "Personnel File Setup and Management",
+      "service2": "KVKK Compliance Package",
       "service3": "Audit Preparation",
-      "service4": "HR Standardization",
-      "service5": "Hiring/Termination",
+      "service4": "Personnel Regulation and HR Package",
+      "service5": "Hiring and Exit Process Management",
       "service6": "Contract Templates",
-      "service7": "Company Establishment",
-      "service8": "Trademark & Patent",
+      "service7": "Operational Startup Package",
+      "service8": "Trademark & Patent Consultancy",
       "service9": "Reporting System",
-      "service10": "Corporate Training"
+      "service10": "Corporate Training Service"
     },
     "faq": {
       "title": "Frequently Asked Questions",
@@ -158,7 +156,7 @@
     },
     "serviceDetails": {
       "service1": {
-        "title": "Personnel Record Management and Organization",
+        "title": "Personnel File Setup and Management",
         "subtitle": "Professional personnel file management compliant with labor law",
         "overview": "The foundation of professional HR operations is based on an organized and complete document management system. With this service, we conduct a comprehensive analysis by taking inventory of your company's existing personnel files in line with your business processes and legal requirements. We not only identify deficiencies but also create file templates that include best practices suitable for the nature of each position.\n\nOur goal is to establish an accessible, systematic, and audit-ready archive structure that facilitates the daily operations of your HR department. With our prepared action plan and monitoring system, we transform document management from a complex burden into an integral part of your company's professional management approach.\n\nAt this point, we aim to build a corporate identity structure with nearly a hundred document varieties that we have prepared under the headings of definite/indefinite term service contracts, signature declarations, job descriptions, custody records, incident-action detection minutes, leave request and approval forms, overtime and leave tracking schedules, and ultimately personnel regulations.",
         "features": [
@@ -184,7 +182,7 @@
         ]
       },
       "service2": {
-        "title": "KVKK Compliant Employee Document Preparation",
+        "title": "KVKK Compliance Package",
         "subtitle": "Full compliance with personal data protection legislation",
         "overview": "Personal data management is not only a legal obligation in today's business world but also a matter of corporate reputation and trust. With our KVKK consultancy service, we transform your employee data processing processes into a transparent, reliable, and legislation-compliant structure. We analyze your company's data processing activities to clarify which data is collected on what basis and clarify retention and destruction policies.\n\nIn this scope, we make official applications to relevant institutions and organizations, submit VERBIS notifications on behalf of your company, and prepare the 'Data Inventory' to be presented to the institution. Apart from these works, we also prepare information texts, consent forms, and all related documentation provided to your employees, creating a corporate structure integrated with current practices.\n\nIn this way, we strengthen your data management processes and provide an infrastructure that will prove that your institution fulfills its data responsibility in the most accurate way in possible audits.",
         "features": [
@@ -236,7 +234,7 @@
         ]
       },
       "service4": {
-        "title": "HR Process Standardization and Personnel Regulation Preparation",
+        "title": "HR Process Management Package and Special Personnel Regulation Preparation",
         "subtitle": "Standard HR processes that increase operational efficiency",
         "overview": "The operational efficiency and healthy corporate culture of companies develop depending on how transparent, consistent, and current their HR processes are. With this awareness, contrary to static and stereotyped approaches, we offer the most current and innovative HR practices to your service by blending them with our deep experience.\n\nWith our HR Process Optimization service, we first analyze your entire HR lifecycle from recruitment to performance management, from disciplinary processes to leave policies within your current operational structure. As a result of our analysis, we design customized procedures that eliminate uncertainties, increase efficiency, and fully adapt to your company's dynamic structure.\n\nWe bring together all of these structured and optimized processes under a comprehensive 'Personnel Regulation' (Company Handbook) specially prepared for your company's operational realities and corporate culture. This document serves not as a static text but as a living and current guide for both managers and employees, strengthening corporate memory and thus ensuring the establishment of a fair and professional ground in HR management.",
         "features": [
@@ -262,7 +260,7 @@
         ]
       },
       "service5": {
-        "title": "Hiring and Termination Processes",
+        "title": "Onboarding and Offboarding Process Management",
         "subtitle": "Professional transition processes that protect from legal risks",
         "overview": "Steps taken at the beginning of work and files prepared in accordance with procedures create a foundation that affects the entire working life, preventing many possible problems in the future. With this awareness, we transform all transition processes from the first moment an employee joins the company to the last moment they leave into a professional structure and ensure that your company completes transition processes in the safest way.\n\nWith this approach, we design an optimized process for the work start phase that accelerates the new employee's adaptation, ensures that necessary documents are completed without deficiency, and official notifications are made on time. With similar meticulousness, we also meticulously structure the termination processes that are critically important to prevent disputes that may arise in the future. With this professional approach, we minimize operational risks on one hand and provide a respectful transition process where both parties' rights are protected on the other hand.",
         "features": [
@@ -340,8 +338,8 @@
         ]
       },
       "service8": {
-        "title": "Trademark & Patent Preliminary Assessment and Application Preparation",
-        "subtitle": "Strategic approach protecting your intellectual property rights",
+        "title": "Trademark & Patent Application, Registration, and Protection Process Management",
+        "subtitle": "We handle all necessary tasks and procedures on your behalf to register and protect your intellectual property rights. By safeguarding all your efforts and assets on your behalf, we enable you to invest more confidently in the future.",
         "overview": "Companies' trademarks, names, and innovations they develop are their most valuable commercial assets. The process of protecting these assets requires end-to-end process management that begins with strategic preliminary preparation, beyond just making an official application.\n\nDuring this strategic preparation period, we analyze the registration potential and possible conflict risks by conducting comprehensive preliminary research for your trademark or invention. We meticulously prepare your application file by determining the correct classification and, if requested, carry out your official application before the Turkish Patent and Trademark Office. After the application is made, we meticulously manage the entire process covering the publication of the application until obtaining the registration certificate, monitoring bulletins, responding to possible objections from third real/legal persons, and conducting all necessary administrative procedures. After the registration process is completed, the protection phase, which is one of the most important stages, begins. We monitor your registered rights, take necessary steps against possible violations, and monitor renewal periods on your behalf, putting your valuable assets under full guarantee.",
         "features": [
           "Comprehensive trademark and patent research services",
@@ -367,7 +365,7 @@
       },
       "service9": {
         "title": "Reporting, Monitoring and Periodic Control System",
-        "subtitle": "Systematic monitoring mechanism for sustainable compliance",
+        "subtitle": "We ensure that all the services we provide work seamlessly with your company's departments and employees, establishing a sustainable system. In this context, we conduct periodic audits and implement a continuous improvement cycle based on the results of our systematic monitoring and reporting.",
         "overview": "The sustainability of new HR systems and process improvements established with our consultancy services is as important as establishing them. Even the best practices can lose their effectiveness over time without regular monitoring and control mechanisms.\n\nWith this service, we establish a systematic monitoring and reporting infrastructure for all improvements to be permanent. We determine critical performance indicators (KPIs) such as 'document completion rate' or 'open risk number', design monthly/quarterly/annual periodic audit plans and clear management report formats. Our goal is to enable you to manage your HR and compliance processes based on data, to initiate a continuous improvement cycle, and to guarantee that the gains achieved are permanent.",
         "features": [
           "Automatic reporting and monitoring systems",
@@ -393,7 +391,7 @@
       },
       "service10": {
         "title": "Corporate Training: HR Compliance, KVKK and File Management",
-        "subtitle": "Applied training programs that increase personnel competencies",
+        "subtitle": "We provide in-house training to ensure your employees can use the systems in a timely and consistent manner, and we ensure our services operate flawlessly.",
         "overview": "The best designed systems and procedures are as strong as the competence of the teams that implement them. Corporate compliance and operational efficiency can be achieved by transferring this knowledge to practice rather than theoretical knowledge.\n\nWith this service, we offer specially designed 'applied' training programs for HR teams and managers. Contrary to boring legislation presentations, we address critical topics such as HR compliance, KVKK, and file management through interactive workshop studies. Our trainings are built on case studies based on your company's realities, practical checklists, and template applications. As a result of our trainings, we aim to ensure that participants move from the 'knowing' level to the 'being able to apply' level and make the acquired competencies an integral part of their daily workflows.",
         "features": [
           "Interactive training content with sector-specific case studies",
@@ -433,11 +431,11 @@
     "formSubject": "Subject",
     "formSubjectOptions": {
       "general": "General Information",
-      "service1": "Personnel Record Management",
-      "service2": "KVKK Compliant Employee Documents",
+      "service1": "Personnel File Setup and Management",
+      "service2": "KVKK Compliance Package",
       "service3": "Audit Preparation & File Improvement",
-      "service4": "HR Process Standardization",
-      "service5": "Hiring and Termination Processes",
+      "service4": "HR Process Management Package and Special Personnel Regulation Preparation",
+      "service5": "Onboarding and Offboarding Process Management",
       "service6": "Service & Employee Contracts",
       "service7": "Company Establishment – Operational Package",
       "service8": "Trademark & Patent Assessment",

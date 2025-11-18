@@ -79,8 +79,6 @@ export default function KurumsalPage() {
               </h2>
               <div className="prose prose-lg text-gray-700 space-y-4">
                 <p>{translations.corporate.section1Text1}</p>
-                <p>{translations.corporate.section1Text2}</p>
-                <p>{translations.corporate.section1Text3}</p>
               </div>
             </div>
             <div className="relative w-full max-w-[512px] aspect-[4/3] sm:aspect-[512/400] mx-auto overflow-hidden rounded-3xl shadow-xl">

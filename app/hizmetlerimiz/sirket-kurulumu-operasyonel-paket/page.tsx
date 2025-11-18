@@ -64,7 +64,7 @@ export default function SirketKurulumuOperasyonelPaketPage() {
             </h2>
             <div className="text-left space-y-4">
               {service.overview.split('\n\n').map((paragraph: string, index: number) => (
-                <p key={index} className="text-lg text-gray-700 leading-relaxed">
+                <p key={index} className="text-lg text-gray-700 leading-relaxed text-justify">
                   {paragraph}
                 </p>
               ))}

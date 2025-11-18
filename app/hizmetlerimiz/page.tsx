@@ -2,12 +2,10 @@
 
 import Image from 'next/image';
 import Link from 'next/link';
-import { useState } from 'react';
 import { useLanguage } from '@/contexts/LanguageContext';
 
 export default function HizmetlerimizPage() {
   const { translations } = useLanguage();
-  const [openFaq, setOpenFaq] = useState<number | null>(null);
   
   const services = [
     {
@@ -92,33 +90,6 @@ export default function HizmetlerimizPage() {
     }
   ];
 
-  const faqData = [
-    {
-      question: translations.services.faq.question1,
-      answer: translations.services.faq.answer1
-    },
-    {
-      question: translations.services.faq.question2,
-      answer: translations.services.faq.answer2
-    },
-    {
-      question: translations.services.faq.question3,
-      answer: translations.services.faq.answer3
-    },
-    {
-      question: translations.services.faq.question4,
-      answer: translations.services.faq.answer4
-    },
-    {
-      question: translations.services.faq.question5,
-      answer: translations.services.faq.answer5
-    }
-  ];
-
-  const toggleFaq = (index: number) => {
-    setOpenFaq(openFaq === index ? null : index);
-  };
-
   return (
     <div className="bg-white pt-28 pb-20">
       {/* Header Section */}
@@ -162,46 +133,6 @@ export default function HizmetlerimizPage() {
           ))}
         </div>
       </div>
-
-      {/* FAQ Section */}
-      <section className="py-20 bg-gray-50">
-        <div className="container mx-auto max-w-4xl px-4 sm:px-6 lg:px-8">
-          <div className="text-center mb-12">
-            <h2 className="font-heading text-3xl font-semibold text-corporate mb-6">
-              {translations.services.faq.title}
-            </h2>
-          </div>
-          
-          <div className="space-y-4">
-            {faqData.map((faq, index) => (
-              <div key={index} className="bg-white rounded-lg shadow-md overflow-hidden">
-                <button
-                  onClick={() => toggleFaq(index)}
-                  className="w-full px-6 py-4 text-left flex justify-between items-center hover:bg-gray-50 transition-colors duration-200"
-                >
-                  <span className="font-semibold text-corporate">{faq.question}</span>
-                  <svg
-                    className={`h-5 w-5 text-corporate transition-transform duration-200 ${
-                      openFaq === index ? 'rotate-180' : ''
-                    }`}
-                    fill="none"
-                    stroke="currentColor"
-                    viewBox="0 0 24 24"
-                  >
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
-                  </svg>
-                </button>
-                
-                {openFaq === index && (
-                  <div className="px-6 pb-4">
-                    <p className="text-gray-700 text-sm leading-relaxed">{faq.answer}</p>
-                  </div>
-                )}
-              </div>
-            ))}
-          </div>
-        </div>
-      </section>
     </div>
   );
 }

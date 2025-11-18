@@ -22,15 +22,12 @@ const Footer = () => {
   ];
 
   const serviceLinks = [
+    { href: '/hizmetlerimiz/sirket-kurulumu-operasyonel-paket', label: translations.services.footerServices.service7 },
     { href: '/hizmetlerimiz/personel-ozluk-dosyasi-yonetimi', label: translations.services.footerServices.service1 },
     { href: '/hizmetlerimiz/kvkk-uyumlu-calisan-evraklari', label: translations.services.footerServices.service2 },
-    { href: '/hizmetlerimiz/denetime-hazirlik-dosya-iyilestirme', label: translations.services.footerServices.service3 },
     { href: '/hizmetlerimiz/ik-surec-standardizasyonu', label: translations.services.footerServices.service4 },
     { href: '/hizmetlerimiz/ise-giris-ayrilma-surecleri', label: translations.services.footerServices.service5 },
-    { href: '/hizmetlerimiz/hizmet-calisan-sozlesmeleri', label: translations.services.footerServices.service6 },
-    { href: '/hizmetlerimiz/sirket-kurulumu-operasyonel-paket', label: translations.services.footerServices.service7 },
     { href: '/hizmetlerimiz/marka-patent-degerlendirme', label: translations.services.footerServices.service8 },
-    { href: '/hizmetlerimiz/raporlama-takip-kontrol-sistemi', label: translations.services.footerServices.service9 },
     { href: '/hizmetlerimiz/kurumsal-egitimler-ik-kvkk', label: translations.services.footerServices.service10 },
   ];
 
@@ -99,7 +96,7 @@ const Footer = () => {
           <div className="space-y-4 lg:space-y-0">
             <h4 className="text-base lg:text-lg font-semibold mb-3 lg:mb-4 text-white">{translations.header.nav.services}</h4>
             <ul className="space-y-2 lg:space-y-3">
-              {serviceLinks.slice(0, 6).map((link) => (
+              {serviceLinks.map((link) => (
                 <li key={link.label}>
                   <Link 
                     href={link.href} 

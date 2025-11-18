@@ -9,7 +9,7 @@
     }
   },
   "footer": {
-    "description": "Yenilikçi bakış açımız ve alanında uzman ekibimizle, hukuki ihtiyaçlarınıza özel stratejiler geliştiriyor, sizi hedeflerinize taşıyacak güvenilir danışmanlık çözümleri sunuyoruz.",
+    "description": "Yenilikçi bakış açımız ve alanında uzman ekibimizle, şirketinizin ihtiyaçlarınıza özel stratejiler geliştiriyor, sizi hedeflerinize taşıyacak güvenilir danışmanlık çözümleri sunuyoruz.",
     "menu": "Menü",
     "usefulLinks": "Faydalı Linkler",
     "location": "Konum",
@@ -47,7 +47,7 @@
   "home": {
     "tag": "Esas Danışmanlık",
     "title": "Danışmanlıkta <br /> Güvenilir Çözüm Ortağınız",
-    "subtitle": "Yenilikçi bakış açımız ve alanında uzman ekibimizle, hukuki ihtiyaçlarınıza özel stratejiler geliştiriyor, sizi hedeflerinize taşıyacak güvenilir danışmanlık çözümleri sunuyoruz.",
+    "subtitle": "Yenilikçi bakış açımız ve alanında uzman ekibimizle, şirketinizin ihtiyaçlarınıza özel stratejiler geliştiriyor, sizi hedeflerinize taşıyacak güvenilir danışmanlık çözümleri sunuyoruz.",
     "button1": "Hizmetlerimizi Keşfedin",
     "button2": "İletişime Geçin"
   },
@@ -60,9 +60,7 @@
     "card3": "Neden Esas",
     "card4": "Gizlilik Politikamız",
     "section1Title": "Esas Danışmanlık",
-    "section1Text1": "İşletmelerin 6698 Sayılı Kişisel Verilerin Korunması Kanunu (“KVKK”) ve Anayasa’nın 20. maddesi kapsamında yer alan “özel hayatın gizliliği” ilkesine tam uyum sağlamaları için kapsamlı danışmanlık hizmeti sunmaktayız.",
-    "section1Text2": "Amacımız, kurumların kişisel veri işleme süreçlerini yasal zeminde güvence altına almak, riskleri ortadan kaldırmak ve sürdürülebilir bir uyum yapısı oluşturmaktır. Veri güvenliği yalnızca yasal bir zorunluk değil; aynı zamanda işletmelerin itibarını, güvenilirliğini ve müşteri sadakatini doğrudan etkileyen stratejik bir unsurdur.",
-    "section1Text3": "VERBİS sistemine kaydınızı ve uyum sürecinizi uzman ekibimizle titizlikle yürütüyor, her adımda yanınızda oluyoruz.",
+    "section1Text1": "Esas Danışmanlık olarak; iş ortaklarımızın operasyonel yüklerini ve hukuki risklerini proaktif bir yaklaşımla yönetilebilir süreçlere dönüştürüyoruz. Kuruluş aşamasından kurumsallaşmaya kadar her evrede, eksiksiz, denetlenebilir ve güvenli bir altyapı kurarak şirketlerin büyüme yolunda emin adımlarla devam etmelerini sağlıyoruz.",
     "section2Title": "Vizyon & Misyon",
     "section2VisionTitle": "Vizyonumuz",
     "section2VisionText": "Danışmanlık alanında güvenilirliğiyle tanınan, ulusal ve uluslararası düzeyde fark yaratan bir marka olmaktır.",
@@ -80,40 +78,40 @@
   "services": {
     "pageTitle": "Hizmetlerimiz",
     "mainTitle": "Uzmanlık Alanlarımız",
-    "mainSubtitle": "KVKK uyumundan şirket kuruluşuna, marka korumasından sözleşme danışmanlığına kadar geniş bir yelpazede profesyonel hizmet sunuyoruz.",
+    "mainSubtitle": "Şiketinizin A'dan Z'ye tüm ihtiyaçlarını karşılıyor, olası problemlerin meydana gelmeden çözülmesini sağlıyoruz. KVKK uyumundan şirket kuruluşuna, marka korumasından sözleşme danışmanlığına kadar geniş bir yelpazede profesyonel hizmet sunuyoruz.",
     "service1": {
-      "title": "Personel Özlük Dosyası Yönetimi ve Düzenleme",
-      "description": "Personel dosyalarınızın sistematik ve denetime hazır hale getirilmesi. Mevcut dosyaların analizi, eksiklerin tespiti ve özelleştirilmiş şablonlar ile profesyonel arşiv yapısı kurulumu.",
+      "title": "Personel Özlük Dosya Kurulumu ve Yönetilmesi",
+      "description": "Personel dosyalarınızın en başından itibaren kusursuz ve anlaşılabilir bir şekilde düzenlenmesini sağlıyoruz. Mevcut dosyalarda ise kapsamlı bir inceleme ve analiz yaparak eksikliklerinizi tespit ediyor ve mevzuata uygun şekilde düzenlenmesini sağlıyoruz.",
       "buttonText": "Detaylı Bilgi"
     },
     "service2": {
-      "title": "KVKK Uyumlu Çalışan Evrakları Hazırlığı",
-      "description": "Kişisel verilerin korunması mevzuatına tam uyum sağlayan evrak düzenlemesi. Aydınlatma metinleri, rıza formları ve veri envanterinin hazırlanmasıyla güvenilir veri yönetimi.",
+      "title": "KVKK Uyum Paketi",
+      "description": "Şirketiniz kayıtlarına giren ve depolanan her türlü bilgi ve belgenin envanterini çıkarıyor, tüm verilerin KVKK mevzuatına uygun şekilde toplanması ve korunmasını sağlıyoruz. Bu kapsamda; Aydınlatma metinleri, rıza formları ve veri envanteri olmak üzere KVKK belgelerinin tamamının eksiksiz şekilde kullanımıza sunuyoruz.",
       "buttonText": "Detaylı Bilgi"
     },
     "service3": {
       "title": "Denetime Hazırlık & Dosya İyileştirme Paketi",
-      "description": "Kapsamlı iç denetim ile risk haritası çıkarımı ve uyumsuzlukların önceliklendirilmesi. Düzeltici faaliyetler planı ve adım adım uygulanabilir iyileştirme takvimi sunumu.",
+      "description": "Kapsamlı bir iç denetim süreci ile şirketinizin risk haritasını çıkarıyor ve uyumsuzlukları tespit ediyoruz. Elde edilen veriler ışığında şirket analizini gerçekleştiriyor ve öncelikli eylem planı hazırlayarak şeffaf ve denetlenebilir bir şekilde şirketinizi tüm denetimlere karşı hazır hale getiriyoruz.",
       "buttonText": "Detaylı Bilgi"
     },
     "service4": {
-      "title": "İK Süreç Standardizasyonu ve Personel Yönetmeliği Hazırlama",
-      "description": "İK süreçlerinin optimize edilmesi ve şirketinize özel personel yönetmeliği hazırlanması. İşe alımdan ayrılmaya kadar tüm süreçlerin standartlaştırılması ve yaşayan rehber oluşturulması.",
+      "title": "İK Süreç Yönetim Paketi ve Özel Personel Yönetmeliği Hazırlanması",
+      "description": "Şirketinizin çalışma prosedürü ve sistemine uygun şekilde İK süreçlerinizi optimize ediyor ve size özel Personel Yönetmeliği düzenliyoruz.",
       "buttonText": "Detaylı Bilgi"
     },
     "service5": {
-      "title": "İşe Giriş ve İşten Ayrılma Süreçleri",
-      "description": "İşe başlangıç ve ayrılma süreçlerinin profesyonel yapıya kavuşturulması. Hukuki riskleri minimize eden, her iki tarafın haklarını koruyan geçiş süreçleri ve prosedürleri tasarımı.",
+      "title": "İşe Giriş ve İşten Ayrılma Süreç Yönetimi",
+      "description": "İşe başlangıç ve ayrılma süreçlerini profesyonel bir yapıya kavuşturuyoruz. Bu sayede, uyuşmazlık risklerini minimalize ediyor, adil bir süreç yönetimi ile her iki tarafın da menfaatlerinin korunmasını sağlıyoruz.",
       "buttonText": "Detaylı Bilgi"
     },
     "service6": {
       "title": "Hizmet & Çalışan Sözleşmeleri Şablon Paketi",
-      "description": "Farklı çalışma modellerine uygun profesyonel sözleşme şablonları paketi. Gizlilik, fikri mülkiyet ve rekabet yasağı maddelerini içeren güvenli sözleşme altyapısı.",
+      "description": "Şirketinizin uygulamakta olduğu farklı çalışma modellerine uygun sözleşmeler düzenliyoruz. Standart ve kalıplaşmış muadillerinin yerine, tam olarak ihtiyaçlarınızı karşılamakta olan sözleşmeler düzenliyerek uyum ve öngörülebilirliği en üst düzeyde sağlıyoruz.",
       "buttonText": "Detaylı Bilgi"
     },
     "service7": {
       "title": "Şirket Kuruluşu – Operasyonel Başlangıç Paketi",
-      "description": "Yeni kurulan şirketler için operasyonel başlangıç İK altyapısı kurulumu. İlk işe alım formlarından KVKK hazırlığına temel belge paketi ve operasyon el kitabı.",
+      "description": "Şirketinizin sorunsuz ve sürdürülebilir büyümesinin ilk şartı, doğru şirket seçimi ile başlamaktadır. Esas Danışmanlık olarak, Şirket türünün ve NACE kodlarının belirlenmesi, şirket esas sözleşmesinin düzenlenmesi başta olmak üzere tüm süreçleri titizlikle yürütüyor ve şirketinizi iş dünyası dinamiklerine uygun bir şekilde kurulmasını sağlıyoruz.",
       "buttonText": "Detaylı Bilgi"
     },
     "service8": {
@@ -123,25 +121,25 @@
     },
     "service9": {
       "title": "Raporlama, Takip ve Periyodik Kontrol Sistemi",
-      "description": "İyileştirmelerin kalıcılığı için sistematik izleme ve raporlama altyapısı. Performans göstergeleri, periyodik denetim planları ve sürekli iyileştirme döngüsü kurulumu.",
+      "description": "Vermiş olduğumuz tüm hizmetlerin şirketiniz departmanları ve çalışanları ile entegre bir şekilde çalışmasını sağlıyor ve sürdürülebilir bir sistem kuruyoruz. Bu kapsamda periyodik denetimlerimizi yapıyor, sistematik izleme ve raporlamalarımız sonucunda sürekli iyileştirme döngüsünü hayata geçiriyoruz.",
       "buttonText": "Detaylı Bilgi"
     },
     "service10": {
       "title": "Kurumsal Eğitimler: İK Uyum, KVKK ve Dosya Yönetimi",
-      "description": "İK ekipleri için uygulamalı eğitim programları. İnteraktif atölye çalışmaları, örnek vakalar ve pratik kontrol listeleriyle bilginin pratiğe aktarılması.",
+      "description": "Şirketiniz personellerinin güncel ve uyumlu bir şekilde sistemleri kullanabilmeleri adına kurum içi eğitimler veriyor ve hizmetlerimizin kusursuz şekilde çalışmasını sağlıyoruz.",
       "buttonText": "Detaylı Bilgi"
     },
     "footerServices": {
-      "service1": "Personel Özlük Dosyası",
-      "service2": "KVKK Uyumlu Evraklar",
+      "service1": "Personel Özlük Dosya Kurulumu ve Yönetilmesi",
+      "service2": "KVKK Uyum Paketi",
       "service3": "Denetime Hazırlık",
-      "service4": "İK Standardizasyonu",
-      "service5": "İşe Giriş/Ayrılma",
+      "service4": "Personel Yönetmeliği ve İK Paketi",
+      "service5": "İşe Giriş ve Çıkış Süreç Yönetimi",
       "service6": "Sözleşme Şablonları",
-      "service7": "Şirket Kuruluşu",
-      "service8": "Marka & Patent",
+      "service7": "Operasyonel Başlangıç Paketi",
+      "service8": "Marka & Patent Danışmanlığı",
       "service9": "Raporlama Sistemi",
-      "service10": "Kurumsal Eğitimler"
+      "service10": "Kurumsal Eğitim Hizmeti"
     },
     "faq": {
       "title": "Sıkça Sorulan Sorular",
@@ -158,7 +156,7 @@
     },
     "serviceDetails": {
       "service1": {
-        "title": "Personel Özlük Dosyası Yönetimi ve Düzenleme",
+        "title": "Personel Özlük Dosya Kurulumu ve Yönetilmesi",
         "subtitle": "İş hukuku uyumlu profesyonel personel dosyası yönetimi",
         "overview": "Profesyonel İK operasyonlarının temeli, düzenli ve eksiksiz bir belge yönetim sistemine dayanmaktadır. Bu hizmetimizle, şirketinizin mevcut personel dosyası envanterini çıkararak iş süreçleriniz ve yasal gereklilikler doğrultusunda kapsamlı bir analiz gerçekleştiriyoruz. Sadece eksikleri tespit etmekle kalmıyor, aynı zamanda her pozisyonun niteliğine uygun, en iyi uygulamaları içeren dosya şablonları oluşturuyoruz.\n\nAmacımız, İK departmanınızın günlük operasyonlarını kolaylaştıran, erişilebilir, sistematik ve denetime hazır bir arşiv yapısı kurmaktır. Hazırladığımız eylem planı ve takip sistemiyle, belge yönetimini karmaşık bir yük olmaktan çıkarıp, şirketinizin profesyonel yönetim anlayışının bir parçası haline getiriyoruz.\n\nBu noktada özellikle belirli/belirsiz süreli hizmet sözleşmeleri, imza beyanları, görev tanımları, zimmet tutanakları, olay-eylem tespit tutanakları, izin talep, kabul formları ve mesai ile izin takip çizelgeleri ve nihayetinde personel yönetmeliği başlıkları altında hazırlamış olduğumuz yüze yakın belge çeşitliliği ile kurumsal kimlik yapısını inşa etmeyi amaçlıyoruz.",
         "features": [
@@ -184,7 +182,7 @@
         ]
       },
       "service2": {
-        "title": "KVKK Uyumlu Çalışan Evrakları Hazırlığı",
+        "title": "KVKK Uyum Paketi",
         "subtitle": "Kişisel verilerin korunması mevzuatına tam uyum",
         "overview": "Kişisel verilerin yönetimi, günümüz iş dünyasında sadece yasal bir zorunluluk değil, aynı zamanda kurumsal bir itibar ve güven meselesidir. KVKK danışmanlık hizmetimiz ile çalışan verilerini işleme süreçlerinizi şeffaf, güvenilir ve mevzuata uygun bir yapıya kavuşturuyoruz. Şirketinizin veri işleme faaliyetlerini analiz ederek, hangi verinin hangi dayanakla toplandığını, saklama ve imha politikalarını netleştiriyoruz.\n\nBu kapsamda, ilgili kurum ve kuruluşlara resmi başvuruları yapıyor, şirketiniz adına VERBİS bildiriminde bulunuyor ve kuruma ibraz edilecek 'Veri Envanteri'nizi hazırlıyoruz. Bu çalışmalar dışında ayrıca çalışanlarınıza sunulan aydınlatma metinlerini, rıza formlarını ve ilgili tüm dokümantasyonu hazırlayarak güncel uygulama ile entegre şekilde kurumsal bir yapı oluşturuyoruz. Bu sayede, veri yönetimi süreçlerinizi güçlendiriyor ve olası denetimlerde kurumunuzun veri sorumluluğunu en doğru şekilde yerine getirdiğini kanıtlayacak bir altyapı sunuyoruz.",
         "features": [
@@ -236,7 +234,7 @@
         ]
       },
       "service4": {
-        "title": "İK Süreç Standardizasyonu ve Personel Yönetmeliği Hazırlama",
+        "title": "İK Süreç Yönetim Paketi ve Özel Personel Yönetmeliği Hazırlanması",
         "subtitle": "Operasyonel verimliliği artıran standart İK süreçleri",
         "overview": "Şirketlerin operasyonel verimliliği ve sağlıklı kurumsal kültürü, İK süreçlerinin ne kadar şeffaf, tutarlı ve güncel olduğuna bağlı olarak gelişmektedir. Bu bilinç ile statik ve kalıplaşmış yaklaşımların aksine, en güncel ve yenilikçi İK uygulamalarını köklü tecrübemizle harmanlayarak hizmetinize sunuyoruz.\n\nİK Süreç Optimizasyonu hizmetimiz ile, öncelikle işe alımdan performans yönetimine, disiplin süreçlerinden izin politikalarına kadar tüm İK yaşam döngünüzü mevcut operasyonel yapınız içinde analiz ediyoruz. Yapmış olduğumuz analiz sonucunda belirsizlikleri ortadan kaldıran, verimliliği artıran ve şirketinizin dinamik yapısına tam uyum sağlayan, size özel prosedürler tasarlıyoruz.\n\nTasarladığımız bu yapılandırılmış ve optimize edilmiş süreçlerin tamamını, şirketinizin operasyonel gerçeklerine ve kurum kültürüne özel olarak hazırlanan kapsamlı bir 'Personel Yönetmeliği' (Şirket El Kitabı) altında topluyoruz. Bu doküman hem yöneticiler hem de çalışanlar için statik bir metin değil, yaşayan ve güncel bir rehber görevi görerek kurumsal hafızayı güçlendirmekte, böylece İK yönetiminde adil ve profesyonel bir zemin oluşturulmasını sağlamaktadır.",
         "features": [
@@ -262,7 +260,7 @@
         ]
       },
       "service5": {
-        "title": "İşe Giriş ve İşten Ayrılma Süreçleri",
+        "title": "İşe Giriş ve İşten Ayrılma Süreç Yönetimi",
         "subtitle": "Hukuki risklerden koruyan profesyonel geçiş süreçleri",
         "overview": "İşe başlangıçta atılan adımlar ve usulüne uygun hazırlanan dosyalar ile tüm çalışma hayatını etkileyen bir temel oluşturularak gelecekteki birçok olası problemin önüne geçilebilmektedir. Bu bilinç ile, bir çalışanın şirkete katıldığı ilk andan, ayrıldığı son ana kadar tüm geçiş süreçlerini profesyonel bir yapıya kavuşturuyor ve şirketinizin geçiş süreçlerini en güvenli şekilde tamamlamasını sağlıyoruz.\n\nBu yaklaşımla, işe başlangıç aşaması için yeni çalışanın adaptasyonunu hızlandıran, gerekli evrakların eksiksiz tamamlandığı ve resmi bildirimlerin zamanında yapıldığı optimize edilmiş bir süreç tasarlıyoruz. Benzer bir titizlikle, gelecekte doğabilecek uyuşmazlıkları önlemek adına kritik önem taşıyan işten ayrılma süreçlerini de titizlikle yapılandırıyoruz. Bu profesyonel yaklaşım ile bir yandan operasyonel riskleri minimuma indirirken diğer yandan her iki tarafın da haklarının korunduğu saygılı bir geçiş süreci sağlıyoruz.",
         "features": [
@@ -340,8 +338,8 @@
         ]
       },
       "service8": {
-        "title": "Marka & Patent Ön Değerlendirme ve Başvuru Hazırlığı",
-        "subtitle": "Fikri mülkiyet haklarınızı koruyan stratejik yaklaşım",
+        "title": "Marka & Patent Başvuru, Tescil ve Koruma Süreç Yönetimi",
+        "subtitle": "Fikri mülkiyet haklarınızın tescili ve korunması için gerekli tüm iş ve işlemleri sizin adınıza yürütüyoruz. Tüm emek ve değerlerinizi sizin adınıza koruyarak geleceğe daha rahat yatırım yapmanızı sağlıyoruz.",
         "overview": "Şirketlerin markaları, isimleri ve geliştirdikleri yenilikler, onların en değerli ticari varlıklarıdır. Bu varlıkları koruma süreci, sadece resmi bir başvuru yapmaktan öte, stratejik bir ön hazırlıkla başlayan uçtan uca bir süreç yönetimini gerektirmektedir.\n\nBu stratejik hazırlık döneminde, markanız veya buluşunuz için kapsamlı bir ön araştırma yaparak tescil potansiyelini ve olası çakışma risklerini analiz ediyoruz. Doğru sınıflandırmayı belirleyerek başvuru dosyanızı titizlikle hazırlıyor ve talep edilmesi halinde Türk Patent ve Marka Kurumu nezdindeki resmi başvurunuzu gerçekleştiriyoruz.\n\nBaşvuru yapıldıktan sonra, tescil belgesini alana kadarki başvurunun yayınlanması, bültenlerin takibi, üçüncü gerçek/tüzel kişilerden gelebilecek olası itirazların yanıtlanması ve gerekli tüm idari işlemlerin yürütülmesini kapsayan tüm süreci titizlikle yönetiyoruz. Tescil işlemi tamamlandıktan sonra ise en önemli aşamalardan biri olan koruma aşaması başlamaktadır. Tescilli haklarınızı izleyerek, olası ihlallere karşı gerekli adımları atıyor ve yenileme dönemlerini sizin adınıza takip ederek değerli varlıklarınızı tam güvence altına alıyoruz.",
         "features": [
           "Kapsamlı marka ve patent araştırma hizmetleri",
@@ -367,7 +365,7 @@
       },
       "service9": {
         "title": "Raporlama, Takip ve Periyodik Kontrol Sistemi",
-        "subtitle": "Sürdürülebilir uyum için sistematik izleme mekanizması",
+        "subtitle": "Vermiş olduğumuz tüm hizmetlerin şirketiniz departmanları ve çalışanları ile entegre bir şekilde çalışmasını sağlıyor ve sürdürülebilir bir sistem kuruyoruz. Bu kapsamda periyodik denetimlerimizi yapıyor, sistematik izleme ve raporlamalarımız sonucunda sürekli iyileştirme döngüsünü hayata geçiriyoruz.",
         "overview": "Danışmanlık hizmetlerimizle kurulan yeni İK sistemlerinin ve süreç iyileştirmelerinin sürdürülebilir olması en az kurulması kadar önemlidir. En iyi uygulamalar dahi, düzenli takip ve kontrol mekanizmaları olmadan zamanla etkinliğini yitirebilmektedir.\n\nBu hizmetimizle, yapılan tüm iyileştirmelerin kalıcı olması amacıyla sistematik bir izleme ve raporlama altyapısı kuruyoruz. 'Evrak tamamlama oranı' veya 'açık risk sayısı' gibi kritik performans göstergeleri (KPI) belirliyor, aylık/çeyreklik/yıllık periyodik denetim planları ve net yönetim rapor formatları tasarlıyoruz. Amacımız, İK ve uyum süreçlerinizi veriye dayalı yönetmenizi sağlamak, sürekli iyileştirme döngüsünü başlatmak ve elde edilen kazanımların kalıcı olmasını garanti altına almaktır.",
         "features": [
           "Otomatik raporlama ve izleme sistemleri",
@@ -393,7 +391,7 @@
       },
       "service10": {
         "title": "Kurumsal Eğitimler: İK Uyum, KVKK ve Dosya Yönetimi",
-        "subtitle": "Personel yetkinliklerini artıran uygulamalı eğitim programları",
+        "subtitle": "Şirketiniz personellerinin güncel ve uyumlu bir şekilde sistemleri kullanabilmeleri adına kurum içi eğitimler veriyor ve hizmetlerimizin kusursuz şekilde çalışmasını sağlıyoruz.",
         "overview": "En iyi tasarlanmış sistemler ve prosedürler, onları uygulayan ekiplerin yetkinliği kadar güçlüdür. Kurumsal uyum ve operasyonel verimlilik, teorik bilgiden ziyade, bu bilginin pratiğe doğru aktarılmasıyla sağlanabilmektedir.\n\nBu hizmetimiz ile İK ekipleri ve yöneticiler için özel olarak tasarlanmış, 'uygulamalı' eğitim programları sunuyoruz. Sıkıcı mevzuat sunumlarının aksine, İK uyum, KVKK ve dosya yönetimi gibi kritik konuları interaktif atölye çalışmalarıyla ele alıyoruz. Eğitimlerimiz, şirketinizin gerçeklerine dayanan örnek vakalar, pratik kontrol listeleri ve şablon uygulamaları üzerine kurulmaktadır. Eğitimlerimiz sonucunda, katılımcıların 'bilme' seviyesinden 'uygulayabilme' seviyesine geçmelerini ve kazanılan yetkinlikleri günlük iş akışlarının bir parçası haline getirmelerini sağlamayı hedefliyoruz.",
         "features": [
           "Sektöre özel örnek vakalar ile interaktif eğitim içerikleri",
@@ -433,11 +431,11 @@
     "formSubject": "Konu",
     "formSubjectOptions": {
       "general": "Genel Bilgi",
-      "service1": "Personel Özlük Dosyası Yönetimi",
-      "service2": "KVKK Uyumlu Çalışan Evrakları",
+      "service1": "Personel Özlük Dosya Kurulumu ve Yönetilmesi",
+      "service2": "KVKK Uyum Paketi",
       "service3": "Denetime Hazırlık & Dosya İyileştirme",
-      "service4": "İK Süreç Standardizasyonu",
-      "service5": "İşe Giriş ve İşten Ayrılma Süreçleri",
+      "service4": "İK Süreç Yönetim Paketi ve Özel Personel Yönetmeliği Hazırlanması",
+      "service5": "İşe Giriş ve İşten Ayrılma Süreç Yönetimi",
       "service6": "Hizmet & Çalışan Sözleşmeleri",
       "service7": "Şirket Kuruluşu – Operasyonel Paket",
       "service8": "Marka & Patent Değerlendirme",
