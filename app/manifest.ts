@@ -11,6 +11,18 @@ export default function manifest(): MetadataRoute.Manifest {
     theme_color: '#0b122b',
     icons: [
       {
+        src: '/favicon.png',
+        sizes: '60x60',
+        type: 'image/png',
+        purpose: 'any',
+      },
+      {
+        src: '/favicon.png',
+        sizes: '60x60',
+        type: 'image/png',
+        purpose: 'maskable',
+      },
+      {
         src: '/esas-logo.png',
         sizes: '512x512',
         type: 'image/png',
