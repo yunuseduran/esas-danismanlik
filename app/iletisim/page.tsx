@@ -34,7 +34,7 @@ export default function IletisimPage() {
             </div>
             <div>
               <h3 className="font-heading text-xl font-semibold text-corporate">{translations.contact.phoneTitle}</h3>
-              <p className="mt-2 text-gray-600">+90 212 123 45 67</p>
+              <p className="mt-2 text-gray-600">{translations.contact.phoneNumber}</p>
             </div>
             <div className="h-64 overflow-hidden rounded-2xl shadow-md">
               <iframe 
