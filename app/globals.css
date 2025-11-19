@@ -7,6 +7,10 @@
     @apply bg-white text-gray-800 antialiased;
   }
 
+  p {
+    @apply text-justify;
+  }
+
   h1,
   h2,
   h3,

@@ -77,7 +77,7 @@ export default function KurumsalPage() {
               <h2 className="font-heading text-3xl font-semibold text-corporate mb-6">
                 {translations.corporate.section1Title}
               </h2>
-              <div className="prose prose-lg text-gray-700 space-y-4">
+              <div className="prose prose-lg text-gray-700 space-y-4 text-justify">
                 <p>{translations.corporate.section1Text1}</p>
               </div>
             </div>
@@ -111,7 +111,7 @@ export default function KurumsalPage() {
               <h2 className="font-heading text-3xl font-semibold text-corporate mb-6">
                 {translations.corporate.section2Title}
               </h2>
-              <div className="prose prose-lg text-gray-700 space-y-4">
+              <div className="prose prose-lg text-gray-700 space-y-4 text-justify">
                 <div>
                   <h3 className="font-heading text-xl font-semibold text-corporate mb-3">{translations.corporate.section2VisionTitle}</h3>
                   <p>{translations.corporate.section2VisionText}</p>
@@ -134,7 +134,7 @@ export default function KurumsalPage() {
               <h2 className="font-heading text-3xl font-semibold text-corporate mb-6">
                 {translations.corporate.section3Title}
               </h2>
-              <div className="prose prose-lg text-gray-700 space-y-4">
+              <div className="prose prose-lg text-gray-700 space-y-4 text-justify">
                 <p>{translations.corporate.section3Text1}</p>
                 <p>{translations.corporate.section3Text2}</p>
                 <p>{translations.corporate.section3Text3}</p>
@@ -170,7 +170,7 @@ export default function KurumsalPage() {
               <h2 className="font-heading text-3xl font-semibold text-corporate mb-6">
                 {translations.corporate.section4Title}
               </h2>
-              <div className="prose prose-lg text-gray-700 space-y-4">
+              <div className="prose prose-lg text-gray-700 space-y-4 text-justify">
                 <p>{translations.corporate.section4Text1}</p>
                 <p>{translations.corporate.section4Text2}</p>
                 <p>{translations.corporate.section4Text3}</p>

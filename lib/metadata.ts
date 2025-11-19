@@ -114,12 +114,13 @@ export const defaultMetadata: Metadata = {
   metadataBase: new URL(siteUrl),
   icons: {
     icon: [
-      { url: '/esas-logo.png', sizes: 'any', type: 'image/png' },
+      { url: '/favicon.png', sizes: '60x60', type: 'image/png' },
+      { url: '/esas-logo.png', sizes: '512x512', type: 'image/png' },
     ],
     apple: [
       { url: '/esas-logo.png', sizes: '180x180', type: 'image/png' },
     ],
-    shortcut: '/esas-logo.png',
+    shortcut: '/favicon.png',
   },
   manifest: '/manifest.json',
   alternates: {
